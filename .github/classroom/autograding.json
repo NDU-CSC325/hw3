@@ -2,35 +2,66 @@
 
     "tests": [
       {
-        "name": "schedule",
+        "name": "Problem1",
         "setup": "",
         "run": "cd tests;build/testAll Problem1",
         "input": "",
         "output": "",
         "comparison": "included",
         "timeout": 2,
-        "points": 40
+        "points": 20
       },
 
       {
-        "name": "stock",
+        "name": "Problem2",
         "setup": "",
         "run": "cd tests;build/testAll Problem2",
         "input": "",
         "output": "",
         "comparison": "included",
         "timeout": 2,
-        "points": 35
+        "points": 10
       },
       {
-        "name": "gas",
+        "name": "Problem3",
         "setup": "",
         "run": "cd tests;build/testAll Problem3",
         "input": "",
         "output": "",
         "comparison": "included",
         "timeout": 2,
-        "points": 25
+        "points": 20
+      },
+      
+      {
+        "name": "Problem4",
+        "setup": "",
+        "run": "cd tests;build/testAll Problem3",
+        "input": "",
+        "output": "",
+        "comparison": "included",
+        "timeout": 2,
+        "points": 10
+      },
+      {
+        "name": "Problem5",
+        "setup": "",
+        "run": "cd tests;build/testAll Problem3",
+        "input": "",
+        "output": "",
+        "comparison": "included",
+        "timeout": 2,
+        "points": 30
+      },
+      {
+        "name": "Problem6",
+        "setup": "",
+        "run": "cd tests;build/testAll Problem3",
+        "input": "",
+        "output": "",
+        "comparison": "included",
+        "timeout": 2,
+        "points": 10
       }
       
     ]
