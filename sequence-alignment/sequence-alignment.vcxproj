@@ -24,7 +24,6 @@
     <ProjectGuid>{d9be4c93-eb9c-46a8-8b36-2afc30591608}</ProjectGuid>
     <RootNamespace>sequencealigment</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>sequence-alignment</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -148,7 +147,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="sequence-alignment.cpp" />
+    <ClCompile Include="sequence-aligment.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\include\hw3.h" />

@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="sequence-aligment.cpp">
+    <ClCompile Include="sequence-alignment.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
