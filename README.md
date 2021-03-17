@@ -1,5 +1,7 @@
 ## Homework 3
 
+All your solutions should be written in the file ```hw3.h``` in the folder ```include```. You can anything
+you like such as classes, typedef and helper functions but do __NOT__ change the signature of the existing functions.
 ## Problem 1 (30 pts)
 
 Write your implementation of the subset sum problem.
